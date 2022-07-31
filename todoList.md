@@ -1,0 +1,3 @@
+- Write an articles about Git
+- Bug a bag
+- Check my email
